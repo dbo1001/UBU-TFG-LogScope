@@ -1,4 +1,4 @@
-# LogScope
+# LogScope 
 
 LogScope es una plataforma que permite a directivos tener control sobre el acceso a las aplicaciones utilizadas en la empresa y el acceso a la red mediante a la VPN. Se trata de una herramienta de soporte a la decision que ayuda a entender mejor como se pueden administrar las licencias y el uso de las aplicaciones.
 
