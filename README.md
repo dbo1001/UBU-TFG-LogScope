@@ -18,7 +18,7 @@ Este proyecto ha sido desarrollado en colaboración con [ASTI Mobile Robotics](h
 
 > Asegúrate de que la versión de Python instalada es la 3.7.5.
 
-### MySQL 5.7.28
+### MySQL 5.7.28  
 
 > Para descargar MySQL puedes hacerlo desde [aquí](https://dev.mysql.com/downloads/windows/installer/5.7.html).
 
