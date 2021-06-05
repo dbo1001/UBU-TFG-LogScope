@@ -27,7 +27,7 @@ Este proyecto ha sido desarrollado en colaboración con [ASTI Mobile Robotics](h
 > Además, otra herramienta útil es MySQL Workbench, que puede descargarse desde [aquí](https://dev.mysql.com/downloads/workbench/).
 
 
-### Scripts para la base de datos
+### Scripts para la base de datos 
 
 > El siguiente paso es crear nuestra base de datos y usuario para el proyecto, puedes usar los siguientes scripts:
 ```cmd
